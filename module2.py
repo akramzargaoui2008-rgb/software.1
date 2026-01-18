@@ -23,12 +23,12 @@ print(f"The perimeter of the rectangle is {perimeter}")
 print(f"The area of the rectangle is {area}")
 
 
-num1 = int(input("Enter the first number: "))
-num2 = int(input("Enter the second number: "))
-num3 = int(input("Enter the third number: "))
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
+number3 = int(input("Enter the third number: "))
 
-sum = num1 + num2 + num3
-product = num1 * num2 * num3
+sum = number1 + number2 + number3
+product = number1 * number2 * number3
 average = sum / 3
 print(f"The sum of the three numbers is {sum}")
 print(f"The product of the three numbers is {product}")
